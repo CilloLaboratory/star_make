@@ -1,0 +1,4 @@
+sample_name	r1_file	r2_file
+sample1	sample1_R1.fastq.gz	sample1_R2.fastq.gz
+sample2	sample2_R1.fastq.gz	sample1_R2.fastq.gz
+sample3	sample3_R1.fastq.gz	sample1_R2.fastq.gz
